@@ -1,5 +1,5 @@
 #  pornhub spider
-### Motivation Ability Trigger 我提供一个吧
+
 
 ## 用法简介
 
@@ -10,5 +10,7 @@
 - 待程序运行完毕， 会在webm文件夹下download两页的webm缩略图，对应名称为详细页面的URL后缀
 - 把后缀放到download.txt里，运行```python crawler.py mp4```, 在MP4文件夹可看到下载好的MP4文件
 
+因为原来的方法失效了，所有用了新的youtube_dl 虽然慢一点，但是可以用了
 
-##### [shadowsocks邀请码](https://portal.shadowsocks.center/aff.php?aff=24252)
+
+
