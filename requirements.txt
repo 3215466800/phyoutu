@@ -1,4 +1,4 @@
 requests
 lxml
-fire
+youtube_dl
 loguru
