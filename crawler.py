@@ -88,8 +88,8 @@ def run(_arg=None):
             os.mkdir(path)
     if _arg == 'webm':
         # https://www.pornhub.com/categories
-        urls = ['https://www.pornhub.com/video?o=tr', 'https://www.pornhub.com/video?o=ht',
-                'https://www.pornhub.com/video?o=mv', 'https://www.pornhub.com/video']
+        urls = ['https://cn.pornhub.com/channels/wow-girls1', 'https://cn.pornhub.com/channels/wow-girls1',
+                'https://cn.pornhub.com/channels/wow-girls1', 'https://cn.pornhub.com/channels/wow-girls1']
         for url in urls:
             list_page(url)
             # p = multiprocessing.Process(target=list_page, args=(url, ))
